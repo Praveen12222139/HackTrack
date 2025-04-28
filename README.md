@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - praveenpal3376@gmail.com
 
-Project Link: [https://github.com/Praveen12222139/hacktrack](https://github.com/yourusername/hacktrack)
+Project Link: [https://github.com/Praveen12222139/hacktrack](https://github.com/Praveen12222139/hacktrack)
